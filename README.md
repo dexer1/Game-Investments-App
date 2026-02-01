@@ -41,7 +41,7 @@ npm run dev
 The dev server is configured to open on port `3000`.
 
 ## Build
-```
+``` 
 npm run build
 ```
 
